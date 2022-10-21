@@ -10,6 +10,8 @@
   What I need is: QT-PY 2040, sensor APDS9960, Resistors, LEDs, breadboard.
    
 * Questions<br>
-  How to use coding c to operate the sensor APD9960?
+  How to use coding c to operate the sensor APD9960?<br>
+  
+  ![image](https://github.com/zizhanghan/1/blob/main/123.gif)
 
 
